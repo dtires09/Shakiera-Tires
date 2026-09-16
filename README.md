@@ -1,4 +1,4 @@
-### Hi there, I'm [Shakiera Tires]! 👋
+### Hi there, I'm Shakiera Tires! 👋
 
 Aspiring **Cloud & Systems Administrator** with a strong foundation in IT infrastructure, network security, and hands-on cloud deployments. I am currently expanding my expertise through practical labs and the Google AI Professional Certificate program.
 
